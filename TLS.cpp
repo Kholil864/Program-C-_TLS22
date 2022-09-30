@@ -9,7 +9,8 @@ using namespace std;
 
 int main (){
     int m, n, total;
-    cout << "Selamat datang di Warteg Uddin\nMenu:\n 1. Burger\n 2. Pizza\n 3. Kentang Goreng\n 4. Soda\n 5. Air Mineral\n";
+    cout << "Selamat datang di Warteg Uddin\n";
+    cout << "Menu:\n 1. Burger\n 2. Pizza\n 3. Kentang Goreng\n 4. Soda\n 5. Air Mineral\n";
     cout << "Silahkan pilih nomor menu: ";
     cin  >> m;
     if (m==1) {
