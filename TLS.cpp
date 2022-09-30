@@ -23,7 +23,7 @@ int main (){
     } else if (m==5) {
         m=MINERAL;
     } else { 
-        cout << "menu tidak tersedia";
+        cout << "Menu tidak tersedia";
     }
     cout << "Jumlah:";
     cin  >> n;
